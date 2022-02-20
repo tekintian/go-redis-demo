@@ -1,5 +1,8 @@
 # go-redis-demo
 
+redis操作使用的类库为 go-redis/redis/v8
+
+
 go redis demo
 ~~~go
    rdb := redis.NewClient(&redis.Options{
